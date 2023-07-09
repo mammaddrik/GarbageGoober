@@ -62,7 +62,7 @@ After installing the script, you can choose two options from the script:<br>
     >**Note:** It starts from the first room and moves to the last room and does not leave the screen.
     <br>
 
-    ![Custom.png](https://i.postimg.cc/jSMgwvQh/Custom.png)
+    ![Custom.png](https://i.postimg.cc/T1kLqykB/Custom.png)
 
 ## License
 GarbageGoober is licensed under [MIT License](https://github.com/mammaddrik/GarbageGoober/blob/main/LICENSE).
