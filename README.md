@@ -50,8 +50,7 @@ pyrhon pip install -r requirements.txt
 After installing the script, you can choose two options from the script:<br>
 
 1. It is for Random trash:
-    >**Note:** It moves in four directions and does not leave the screen and displays the state of the room at any moment.
-    <br>You can specify the location of GarbageGoober.
+    >**Note:** It moves in four directions and does not leave the screen and displays the state of the room at any moment. You can specify the location of GarbageGoober.
 
     ![Random.png](https://i.postimg.cc/YSQgFCQz/Random.png)
 
