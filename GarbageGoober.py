@@ -247,7 +247,7 @@ GarbageGoober:~# """)
                     newStatus = "Moving..."
 
             else:
-                newStatus = currentStatus   
+                newStatus = currentStatus
             return newStatus
         
         def action():
